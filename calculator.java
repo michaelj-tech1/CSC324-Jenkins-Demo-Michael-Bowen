@@ -22,4 +22,3 @@ public class Calculator {
     }
 }
 
-# Added to test build on Jenkins
